@@ -1,4 +1,7 @@
-# test coverage for  [bean-io (v0.3.2)](https://github.com/monteslu/bean-io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bean-io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bean-io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bean-io.svg)](https://travis-ci.org/npmtest/node-npmtest-bean-io)
+# npmtest-bean-io
+
+#### basic test coverage for  [bean-io (v0.3.2)](https://github.com/monteslu/bean-io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bean-io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bean-io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bean-io.svg)](https://travis-ci.org/npmtest/node-npmtest-bean-io)
+
 #### Punchthrough LightBlue Bean IO
 
 [![NPM](https://nodei.co/npm/bean-io.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bean-io)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-bean-io/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-bean-io/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-bean-io/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-bean-io/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bean-io/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bean-io/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-bean-io/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-bean-io/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bean-io/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bean-io/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-bean-io/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-bean-io/build/coverage.html/index.html)
 
@@ -75,7 +78,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.3.2"
+    "version": "0.3.2",
+    "bin": {}
 }
 ```
 

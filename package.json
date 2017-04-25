@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [bean-io (v0.3.2)](https://github.com/monteslu/bean-io#readme) [![npm package](https://img.shields.io/npm/v/npmtest-bean-io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bean-io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bean-io.svg)](https://travis-ci.org/npmtest/node-npmtest-bean-io)",
+    "description": "#### basic test coverage for  [bean-io (v0.3.2)](https://github.com/monteslu/bean-io#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bean-io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bean-io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bean-io.svg)](https://travis-ci.org/npmtest/node-npmtest-bean-io)",
     "devDependencies": {
         "bean-io": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
